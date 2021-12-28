@@ -1,0 +1,13 @@
+h1.page-header
+{
+   /* background-color:beige; */
+   text-align: center;
+}
+button.add-btn
+{
+    margin-top: 30px;
+};
+button.remove-btn
+{
+  right: 50px;
+}
